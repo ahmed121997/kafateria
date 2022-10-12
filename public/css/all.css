@@ -1,0 +1,15 @@
+.add-product{
+    display: none;
+    position: absolute;
+    width: 35%;
+    top: 30%;
+    left: 30%;
+    height: 269px;
+    background: #382e2feb;
+    padding: 1.5% 10px;
+    color: #FFF;
+    border-radius: 20px;
+}
+.add-product form {
+    padding: 20px;
+}
